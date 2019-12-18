@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/dashboard:v2.0.0-beta8
+FROM kubernetesui/dashboard:v2.0.0-beta8
